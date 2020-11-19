@@ -1,4 +1,4 @@
-var addBtn = function(){
+/*var addBtn = function(){
     var btn = document.createElement("button");
     btn.innerHTML = "NON CLICCARE";
   
@@ -18,4 +18,4 @@ var addBtn = function(){
   };
   
   document.addEventListener("DOMContentLoaded", addBtn);
-  
+  */
